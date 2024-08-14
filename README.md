@@ -1,5 +1,7 @@
 # RentADepop
 
+[Access Case Study here](https://juniper-room-602.notion.site/Rent-a-Depop-48ae1bd3a910401bb4e2f37ca0f4df20)
+
 # **Overview**
 
 Depop is a popular e-commerce platform that allows users to buy and sell used, vintage, and repurposed clothing.  Reaching over 42 million users in 2023 mainly consisting of Millennials and Gen Zs, Depop aims to digitalize the experience of thrifting and reduce waste in the fashion industry. 
